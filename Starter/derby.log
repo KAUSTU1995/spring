@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Sat Jun 06 19:56:32 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-8a06-a7e5-0000126dd050 
+on database directory memory:C:\Users\kaustubh\Desktop\Spring-Java\Starter\c4b61bf6-659f-4014-a4cc-1cc15b446e77 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/kaustubh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\kaustubh\Desktop\Spring-Java\Starter
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jun 06 19:59:34 IST 2020:
+Shutting down instance a816c00e-0172-8a06-a7e5-0000126dd050 on database directory memory:C:\Users\kaustubh\Desktop\Spring-Java\Starter\c4b61bf6-659f-4014-a4cc-1cc15b446e77 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sat Jun 06 19:59:40 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 560c80d5-0172-8a06-a7e5-0000126dd050 
+on database directory memory:C:\Users\kaustubh\Desktop\Spring-Java\Starter\44af7e6f-6c3f-4c2a-86b8-37b36b1ee4b9 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/kaustubh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\kaustubh\Desktop\Spring-Java\Starter
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
